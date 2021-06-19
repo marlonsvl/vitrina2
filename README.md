@@ -1,3 +1,3 @@
  # vitrina2
-##aplicacion
+## aplicacion
 
